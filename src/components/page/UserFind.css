@@ -1,0 +1,42 @@
+.ser_box > button {
+  margin: 0px 5px;
+}
+input[type="text"] {
+  outline: none;
+}
+.container {
+  width: 80vw;
+  margin: 16px auto;
+}
+.container > h4 {
+  text-align: center;
+}
+.ser_box {
+  justify-content: center;
+  display: flex;
+  margin: 18px 0px;
+}
+
+.card_item {
+  width: 15rem;
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  box-sizing: border-box;
+  overflow: hidden;
+  margin: 10px;
+}
+.card_flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.sort_filter_option > div:last-child > button {
+  margin: 5px;
+  width: 5rem;
+}
+.sort_filter_option {
+  display: flex;
+  justify-content: space-between;
+}
+.sort_filter_option > div:last-child > h5 {
+  text-align: center;
+}

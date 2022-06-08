@@ -1,0 +1,6 @@
+export const USER_FIND_LOADING = "USER_FIND_LOADING";
+export const USER_FIND_FAIL = "USER_FIND_FAIL";
+export const USER_FIND_SUCCESS = "USER_FIND_SUCCESS";
+
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_SHOW = "USER_SHOW";
